@@ -1,21 +1,21 @@
 # micro:bit po polsku
 
-# Gdzie i co kupić?
+## Gdzie i co kupić?
 
 Więcej na temat zakupów `micro:bit`-a znajdziecie [tutaj](/gdziekupic).
 
-# Skąd wziąć oprogramowanie?
+## Skąd wziąć oprogramowanie?
 
-# Trochę o sprzęcie
+## Trochę o sprzęcie
 
-# Jak programować?
+## Jak programować?
 
-## Graficznie
+### Graficznie
 
-## TypeScript
+### TypeScript
 
-## MicroPython
+### MicroPython
 
-## Inne
+### Inne
 
-# Podstawy TypeScript
+## Podstawy TypeScript
