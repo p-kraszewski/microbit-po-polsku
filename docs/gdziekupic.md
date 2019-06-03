@@ -27,9 +27,28 @@ Zawiera kabel USB i koszyk na baterie "paluszki. Cena [95zł](https://botland.co
 
 ### SparkFun Inventor's Kit
 
-Zawierający mnóstwo różnych peryferiów: między innymi serwomechanizm, różnokolorowe diody LED, płytkę stykową, kable, przełączniki. Cena [280 zł](https://botland.com.pl/pl/microbit-zestawy-edukacyjne/11130-sparkfun-inventor-s-kit-dla-bbc-microbit-845156008544.html).
+Zawierający mnóstwo różnych peryferiów:
+* Główna płytka `micro:bit`
+* Łącznik do płytki stykowej
+* Płytka stykowa
+* Mały serwomechanizm
+* Głośniczek
+* Kabel USB
+* Kable połączeniowe
+* Czujnik temperatury `TMP36`
+* Czujnik natężenia światła
+* Dioda trójkolorowa
+* Po pięć diod w kolorach zielonym, żółtym, niebieskim i czerownym wraz z potrzebnymi rezystorami
+* Przyciski
+* Potencjometr
+* Koszyk na baterie (2x paluszek AA)
+* Kable z krokodylkami
+
+Cena [280 zł](https://botland.com.pl/pl/microbit-zestawy-edukacyjne/11130-sparkfun-inventor-s-kit-dla-bbc-microbit-845156008544.html).
 
 **Uwaga!** Koszyk jest na baterie AA. **Nie wolno** użyć w tym miejscu akumulatorów 14500 opisanych później, mimo podobnego wyglądu. Akumulator nieodwracalnie uszkodzi `micro:bit`-a.
+
+![AB2](img/Inventor.png)
 
 ## Akcesoria i peryferia
 
